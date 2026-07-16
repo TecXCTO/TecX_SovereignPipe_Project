@@ -1,7 +1,7 @@
 # TecX_SovereignPipe_Project
 
 Technology Engineering Computation Expansion Sovereign Pipe Project
-
+```
 sovereignpipe_project/
 │
 ├── config.py             # Global execution boundaries and hardware configuration
@@ -11,3 +11,4 @@ sovereignpipe_project/
 ├── orchestrator.py       # Asynchronous queue broker engine management routing
 ├── simulator.py          # Synthetic variable data and AI-code generation system
 └── main.py               # Enterprise application service execution manager
+```
